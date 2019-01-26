@@ -1,0 +1,8 @@
+com/tom_e_white/drdobbs/mapreduce/ProjectionMapper.class
+com/tom_e_white/drdobbs/mapreduce/TopKReducer.class
+com/tom_e_white/drdobbs/mapreduce/AggregateJob.class
+com/tom_e_white/drdobbs/crunch/TopK.class
+com/tom_e_white/drdobbs/mapreduce/TopKMapper.class
+com/tom_e_white/drdobbs/mapreduce/TopKJob.class
+com/tom_e_white/drdobbs/mapreduce/TopKCollection.class
+com/tom_e_white/drdobbs/crunch/TopK$1.class
